@@ -1,2 +1,2 @@
 # Go Util
-Pacote com diversos funções úteis para Golang.
+Pacote com diversas funções úteis para Golang.
